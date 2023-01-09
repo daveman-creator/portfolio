@@ -1,5 +1,4 @@
 import Head from 'next/head';
-
 import Navbar from '../components/Navbar';
 
 function About() {
@@ -17,9 +16,7 @@ function About() {
             <h1 data-cy="pageTitle" className="title">
               About
             </h1>
-            <p className="description">
-              Plays football and basketball.
-            </p>
+            <p className="description">Plays football and basketball. 😊</p>
           </div>
         </div>
       </section>
