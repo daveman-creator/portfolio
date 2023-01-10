@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Link from 'next/link';
-
 import Navbar from '../components/Navbar';
 
 function Home() {
@@ -22,9 +21,7 @@ function Home() {
               I am 28 years old, a students of Upleveled bootcamp Vienna.
             </p>
 
-            <Link href="/contact" className="cta">
-              +36202585915, djustin43@gmail.com
-            </Link>
+            <Link href="/contact" className="cta"></Link>
           </div>
 
           <div className="image-wrapper">
